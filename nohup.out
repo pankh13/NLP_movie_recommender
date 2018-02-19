@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "doc2vec4.py", line 1, in <module>
+    from nltk import RegexpTokenizer
+ImportError: No module named nltk
